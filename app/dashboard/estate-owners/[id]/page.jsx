@@ -1,6 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
-import getEstates, { getOwnerById } from '@/lib/services';
+import { getEstates, getOwnerById } from '@/lib/services';
 import DeleteOwnerModal from '@/components/DeleteOwnerModal';
 
 const EstateOwnerProfilePage = async ({ params }) => {

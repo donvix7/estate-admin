@@ -4,7 +4,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import Link from 'next/link';
 import { usePathname, useRouter } from 'next/navigation';
 import { LogOut, Search, Building2, User, ChevronRight } from 'lucide-react';
-import getEstates, { getOwners, getJoinRequests } from '@/lib/services';
+import { getEstates, getOwners, getJoinRequests } from '@/lib/services';
 
 export default function DashboardLayout({ children }) {
   const pathname = usePathname();

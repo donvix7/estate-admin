@@ -1,6 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
-import getEstates, { getLogs } from '@/lib/services';
+import { getEstates, getLogs } from '@/lib/services';
 import { timeAgo } from '@/lib/utils';
 
 const DashboardPage = async () => {
