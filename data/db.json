@@ -1,0 +1,462 @@
+{
+  "residents": [
+    {
+      "id": "RES-001",
+      "name": "John Doe",
+      "unit": "12A",
+      "estateId": "EST-29402"
+    },
+    {
+      "id": "RES-002",
+      "name": "Jane Smith",
+      "unit": "4B",
+      "estateId": "EST-29402"
+    },
+    {
+      "id": "RES-003",
+      "name": "Michael Chen",
+      "unit": "Penthouse 1",
+      "estateId": "EST-29402"
+    },
+    {
+      "id": "RES-004",
+      "name": "Sarah Johnson",
+      "unit": "8F",
+      "estateId": "EST-31055"
+    },
+    {
+      "id": "RES-005",
+      "name": "Robert Wilson",
+      "unit": "2C",
+      "estateId": "EST-31055"
+    },
+    {
+      "id": "RES-006",
+      "name": "Emily Brown",
+      "unit": "15D",
+      "estateId": "EST-11822"
+    },
+    {
+      "id": "RES-007",
+      "name": "David Lee",
+      "unit": "Villa 3",
+      "estateId": "EST-11822"
+    },
+    {
+      "id": "RES-008",
+      "name": "Jessica Taylor",
+      "unit": "10E",
+      "estateId": "EST-09433"
+    },
+    {
+      "id": "RES-009",
+      "name": "William Garcia",
+      "unit": "Cottage 2",
+      "estateId": "EST-09433"
+    },
+    {
+      "id": "RES-010",
+      "name": "Ashley Miller",
+      "unit": "7G",
+      "estateId": "EST-88491"
+    },
+    {
+      "id": "RES-011",
+      "name": "James Martinez",
+      "unit": "3A",
+      "estateId": "EST-88491"
+    },
+    {
+      "id": "RES-012",
+      "name": "Linda Hernandez",
+      "unit": "19B",
+      "estateId": "EST-29402"
+    },
+    {
+      "id": "RES-013",
+      "name": "Thomas Young",
+      "unit": "Suite 204",
+      "estateId": "EST-31055"
+    },
+    {
+      "id": "RES-014",
+      "name": "Karen King",
+      "unit": "5E",
+      "estateId": "EST-11822"
+    },
+    {
+      "id": "RES-015",
+      "name": "Patricia Moore",
+      "unit": "9H",
+      "estateId": "EST-09433"
+    },
+    {
+      "id": "RES-016",
+      "name": "Joseph Jackson",
+      "unit": "11C",
+      "estateId": "EST-88491"
+    },
+    {
+      "id": "RES-017",
+      "name": "Barbara Lopez",
+      "unit": "Main House",
+      "estateId": "EST-29402"
+    },
+    {
+      "id": "RES-018",
+      "name": "Richard White",
+      "unit": "Apt 42",
+      "estateId": "EST-31055"
+    },
+    {
+      "id": "RES-019",
+      "name": "Susan Harris",
+      "unit": "Studio 1",
+      "estateId": "EST-11822"
+    },
+    {
+      "id": "RES-020",
+      "name": "Charles Martin",
+      "unit": "14F",
+      "estateId": "EST-09433"
+    },
+    {
+      "id": "RES-021",
+      "name": "Charles Martin",
+      "unit": "14F",
+      "estateId": "TlUiPvue2WI"
+    },
+    {
+      "id": "RES-021",
+      "name": "Margaret Thompson",
+      "unit": "Upper Deck",
+      "estateId": "EST-88491"
+    }
+  ],
+  "estates": [
+    {
+      "id": "EST-29402",
+      "name": "Skyline Sanctuary",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAyY-giLDV4Tc7r_hbTXiB6xKx_pjz-SB1GDnyIkn0A0JwxrgDkp-uZyfw4-NrhPrhF9tBNmXM30C1uq1bMUFzWvGjHRz027_-0u4lO8iY0GA57vIktKq-XgHJtX82thNx0hWIH2kq_WBnoC9z-26L8DuHoG5w4QD808AVk3RLJNg6kCDbMQk5ALWUkba8S2nGdUqh1nI-wrA6OlI9LclPOvgqZUp51-x-UAeKuPQvVF1t44I-ON7VmPhbnGqr9qp5FIFmfSp2hwr6R",
+      "location": "Dubai, UAE",
+      "address": "Dubai, UAE",
+      "status": "Active",
+      "health": 92,
+      "subscription": {
+        "plan": "Enterprise",
+        "status": "Active",
+        "renewal": "Dec 15, 2026"
+      },
+      "owner": {
+        "name": "Lord Devonshire II",
+        "role": "Founding Partner, Sterling Wealth",
+        "avatar": "https://lh3.googleusercontent.com/aida-public/AB6AXuBTwezeEIA7YBwgNWj7nxoqrd-FTqROzPmYjzNGPapw7hH7PRFSfmASJnebIzLUzWU2oNICItNTTWot4nHwyiWeoTwjzOtsHs31ZSGOHH3pjdSYMFsYDuIH_xRY02V-qi_u38vnSM5fcGEnEBSfsgTou3WrHEoseEHDVoo5uBSHkt6rsRqhuv6Xg33EoYCo7m98tZOauK7FyZQlzjlAMAm-M_YxQ2vwzxPLSbblZLPjoD3xmWZ7KDaOl8XcUE2TjeGqGSJWXbXLmBPw"
+      },
+      "created_at": "Jan 15, 2023"
+    },
+    {
+      "id": "EST-31055",
+      "name": "Azure Heights",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAdtHCtJnyAPsgMS9IwNE62V3id6cJkaWGVzoIE6wJBjt_E2byYwFJ_VBHNmQvcOhyClVTzpAT00zQF1IX6WuFQSD2ZrJ-SLjWsHZzAjCJ4eJf8Ilu5DW80cXCJ4zR1rLEde_kkWcPByL1JUEkhf11zSa6fK8rtW1VhppePhwutNc0COlAhG1tIZz1vYSQ3bqX0IO6tX4z_kSnf2b5VP5YHHgvUyrYtYLGLjlNGnfkTugwCHT-7S6LvPykepoPYNNnrMF1KF6Ko47UX",
+      "location": "London, UK",
+      "address": "London, UK",
+      "status": "Under Renovation",
+      "health": 45,
+      "subscription": {
+        "plan": "Professional",
+        "status": "Past Due",
+        "renewal": "Oct 15, 2023"
+      },
+      "owner": {
+        "name": "Aether Global Holdings",
+        "role": "Investment Director, Global Estates",
+        "avatar": "https://lh3.googleusercontent.com/aida-public/AB6AXvD-9-8-7-6-5-4-3-2-1"
+      },
+      "created_at": "May 20, 2023"
+    },
+    {
+      "id": "EST-11822",
+      "name": "The Meridian Reserve",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCSR-jXNl1F6xMaa5j9WPWud9Dauc-1XkZwTO2v6PrHzKyAC5fRKjY5hnbXp7QjWszABG9guf_57KxmMq2GlNYwQLbeu92UhSinbmWnVerJbmPORsr2ub4VaHxc-7FaRYsRF9FSPQmK6RaEkLdQ7Lk3UxW-yc90QJ43dk25OMCYmvVlxjDjZurqy9D5su5hSDn5LBeA_N7aSlfnNbllDa7_wOQcYWaRu4AMGGQW-XuSbKa0Zr_nk6zn0TLtf5Be3FrFwR_EOAKpISxV",
+      "location": "Capri, Italy",
+      "address": "Capri, Italy",
+      "status": "Developing",
+      "health": 15,
+      "subscription": {
+        "plan": "Basic",
+        "status": "Active",
+        "renewal": "Jan 15, 2024"
+      },
+      "owner": {
+        "name": "Helios Solar Trust",
+        "role": "Chairman, Meridian Properties",
+        "avatar": "https://lh3.googleusercontent.com/aida-public/AB6AXv-0-9-8-7-6-5-4-3-2-1"
+      },
+      "created_at": "Aug 10, 2023"
+    },
+    {
+      "id": "EST-09433",
+      "name": "Greenwood Manor",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuD-DLTOlFzs7M5bJaYSOm5fFxwKS4VPOAVMHMmh9lk2xai2__xFtf_cFUeEFDLAD6u12UaryYL3Atw3HXjxSkxZzNTCaZnCTxlBjxU6OTLul9MZEqMZg3O_NRauASsftJSMVjcbBedjFHnWut-JTI62DcU5YBKCb6j8NxIxjvgUBCNkHoJGBVCs1tQxhKblZcyMnvrOD1EHdRhI6cQWCp6BuR0AVFQg96RWabSs1L4YBzZcgUfEeZQNjzlxskVUIJWN4Qqyr3nvMiJf",
+      "location": "Aspen, USA",
+      "address": "Aspen, USA",
+      "status": "Active",
+      "health": 88,
+      "subscription": {
+        "plan": "Professional",
+        "status": "Active",
+        "renewal": "May 15, 2024"
+      },
+      "owner": {
+        "name": "Sofia Jensen-Arnault",
+        "role": "Director, Northern Star Realty",
+        "avatar": "https://lh3.googleusercontent.com/aida-public/AB6AXv-1-2-3-4-5-6-7-8-9"
+      },
+      "created_at": "Nov 05, 2023"
+    },
+    {
+      "id": "EST-88491",
+      "name": "Oakhaven Estate",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuA9VExwgt3nQJs7_9lgR6j22WEVh0HvlIWC_y7_U4rUTCzMKUy5Sg5t0WfAplStXtavK2TwhDF6dWoEom2w8DaTIiJL06BFwgyeFsvjZz38fbbTfTvMRKO3f0Qb6B_8l7GuU9p1mRzj8OGxMV9OLpy2D3ZSHN1Dytd8LDo5G5fuUE0nza9heUFWB7g84yhrdZkscAmEvG3HF_sPNCabl75An2T6rRtFPhb42AZOSpfY4Wc8xYzaX05mYzTH9noYOGou8F37gJYa4Tzq",
+      "location": "Charleston, USA",
+      "address": "Charleston, USA",
+      "status": "Active",
+      "subscription": {
+        "plan": "Enterprise",
+        "status": "Active",
+        "renewal": "Aug 15, 2024"
+      },
+      "owner": {
+        "name": "Beatrice K. Vance",
+        "role": "Principal, Thorne Capital",
+        "avatar": "https://lh3.googleusercontent.com/aida-public/AB6AXv-9-8-7-6-5-4-3-2-1"
+      },
+      "created_at": "Feb 12, 2024"
+    },
+    {
+      "id": "ZFKgvPV-Y0E",
+      "name": "Daniels and co",
+      "type": "Commercial Plaza",
+      "address": "77 Wheatley Court",
+      "location": "77 Wheatley Court",
+      "subscription": {
+        "plan": "Enterprise",
+        "status": "Active",
+        "renewal": "Apr 11, 2026"
+      },
+      "owner": {
+        "name": "Daniel",
+        "email": "donvix7@gmail.com"
+      },
+      "squareFootage": "60000",
+      "amenityTier": "Gold - Standard",
+      "image": "blob:http://localhost:3000/de73e364-4d0f-44f8-83af-4eca2118578a",
+      "estatePayDate": "Apr 11, 2026",
+      "category": "Residential",
+      "region": "Africa",
+      "currency": "NGN",
+      "status": "Pending Approval",
+      "created_at": "Apr 01, 2026"
+    },
+    {
+      "id": "TlUiPvue2WI",
+      "name": "Daniel Nwachi Estate",
+      "type": "Commercial Plaza",
+      "address": "77 Wheatley Court",
+      "location": "77 Wheatley Court",
+      "subscription": {
+        "plan": "Enterprise",
+        "status": "Active",
+        "renewal": "Apr 04, 2026"
+      },
+      "owner": {
+        "name": "Engr. Daniel Nwachi ",
+        "email": "donvix7@gmail.com"
+      },
+      "squareFootage": "2000",
+      "amenityTier": "Gold - Standard",
+      "image": "blob:http://localhost:3000/2ca3e405-1a7d-4fe2-9f7f-c445b7d8f915",
+      "estatePayDate": "Apr 04, 2026",
+      "category": "Residential",
+      "region": "Africa",
+      "currency": "USD",
+      "status": "Pending Approval",
+      "created_at": "Apr 04, 2026"
+    }
+  ],
+  "owners": [
+    {
+      "id": "OWN-001",
+      "name": "Lord Devonshire II",
+      "desc": "Private Trust • London, UK",
+      "type": "Individual",
+      "portfolio": 14,
+      "growth": "+2.1%",
+      "date": "Oct 12, 2019",
+      "status": "Active"
+    },
+    {
+      "id": "OWN-003",
+      "name": "Beatrice K. Vance",
+      "desc": "Private Estate • Geneva, CH",
+      "type": "Individual",
+      "portfolio": 5,
+      "growth": "0.0%",
+      "date": "Mar 22, 2022",
+      "status": "Dormant"
+    },
+    {
+      "id": "OWN-004",
+      "name": "Helios Solar Trust",
+      "desc": "Institutional • New York, USA",
+      "type": "Corporate",
+      "portfolio": 88,
+      "growth": "+1.8%",
+      "date": "Nov 30, 2018",
+      "status": "Active"
+    },
+    {
+      "id": "OWN-005",
+      "name": "Sofia Jensen-Arnault",
+      "desc": "Family Office • Paris, FR",
+      "type": "Individual",
+      "portfolio": 31,
+      "growth": "-0.4%",
+      "date": "Jul 14, 2023",
+      "status": "Critical Review"
+    },
+    {
+      "id": "Ic5Eqi72ZYk",
+      "img": "default",
+      "name": "Dillion jakes",
+      "type": "Corporate",
+      "desc": "Corporate • Nigeria",
+      "date": "Apr 04, 2026",
+      "nationality": "Nigeria",
+      "email": "donvix7@gmail.com",
+      "phone": "+448069216066",
+      "address": "77 Wheatley Court",
+      "created_at": "Apr 03, 2026",
+      "updated_at": "Apr 03, 2026",
+      "asset": 0,
+      "status": "Active"
+    }
+  ],
+  "payments": [
+    {
+      "name": "Skyline Sanctuary",
+      "estateId": "EST-29402",
+      "id": "TXN-90210-A",
+      "amount": "12400.00",
+      "method": "account_balance",
+      "methodName": "Wire",
+      "status": "Completed",
+      "date": "Jul 01, 2024",
+      "img": "https://lh3.googleusercontent.com/aida-public/AB6AXuAyY-giLDV4Tc7r_hbTXiB6xKx_pjz-SB1GDnyIkn0A0JwxrgDkp-uZyfw4-NrhPrhF9tBNmXM30C1uq1bMUFzWvGjHRz027_-0u4lO8iY0GA57vIktKq-XgHJtX82thNx0hWIH2kq_WBnoC9z-26L8DuHoG5w4QD808AVk3RLJNg6kCDbMQk5ALWUkba8S2nGdUqh1nI-wrA6OlI9LclPOvgqZUp51-x-UAeKuPQvVF1t44I-ON7VmPhbnGqr9qp5FIFmfSp2hwr6R"
+    },
+    {
+      "name": "Azure Heights",
+      "estateId": "EST-31055",
+      "id": "TXN-88432-C",
+      "amount": "45000.00",
+      "method": "credit_card",
+      "methodName": "ACH",
+      "status": "Pending",
+      "date": "Jul 05, 2024",
+      "color": "bg-secondary-container text-on-secondary-container",
+      "img": "https://lh3.googleusercontent.com/aida-public/AB6AXuAdtHCtJnyAPsgMS9IwNE62V3id6cJkaWGVzoIE6wJBjt_E2byYwFJ_VBHNmQvcOhyClVTzpAT00zQF1IX6WuFQSD2ZrJ-SLjWsHZzAjCJ4eJf8Ilu5DW80cXCJ4zR1rLEde_kkWcPByL1JUEkhf11zSa6fK8rtW1VhppePhwutNc0COlAhG1tIZz1vYSQ3bqX0IO6tX4z_kSnf2b5VP5YHHgvUyrYtYLGLjlNGnfkTugwCHT-7S6LvPykepoPYNNnrMF1KF6Ko47UX"
+    },
+    {
+      "name": "The Meridian Reserve",
+      "estateId": "EST-11822",
+      "id": "TXN-11029-K",
+      "amount": "8900.00",
+      "method": "contactless",
+      "methodName": "Credit Card",
+      "status": "Failed",
+      "date": "Jul 10, 2024",
+      "img": "https://lh3.googleusercontent.com/aida-public/AB6AXuCSR-jXNl1F6xMaa5j9WPWud9Dauc-1XkZwTO2v6PrHzKyAC5fRKjY5hnbXp7QjWszABG9guf_57KxmMq2GlNYwQLbeu92UhSinbmWnVerJbmPORsr2ub4VaHxc-7FaRYsRF9FSPQmK6RaEkLdQ7Lk3UxW-yc90QJ43dk25OMCYmvVlxjDjZurqy9D5su5hSDn5LBeA_N7aSlfnNbllDa7_wOQcYWaRu4AMGGQW-XuSbKa0Zr_nk6zn0TLtf5Be3FrFwR_EOAKpISxV"
+    },
+    {
+      "name": "Greenwood Manor",
+      "estateId": "EST-09433",
+      "id": "TXN-44501-L",
+      "amount": "22000.00",
+      "method": "account_balance",
+      "methodName": "Wire",
+      "status": "Completed",
+      "date": "Jul 12, 2024",
+      "img": "https://lh3.googleusercontent.com/aida-public/AB6AXuD-DLTOlFzs7M5bJaYSOm5fFxwKS4VPOAVMHMmh9lk2xai2__xFtf_cFUeEFDLAD6u12UaryYL3Atw3HXjxSkxZzNTCaZnCTxlBjxU6OTLul9MZEqMZg3O_NRauASsftJSMVjcbBedjFHnWut-JTI62DcU5YBKCb6j8NxIxjvgUBCNkHoJGBVCs1tQxhKblZcyMnvrOD1EHdRhI6cQWCp6BuR0AVFQg96RWabSs1L4YBzZcgUfEeZQNjzlxskVUIJWN4Qqyr3nvMiJf"
+    },
+    {
+      "name": "Oakhaven Estate",
+      "estateId": "EST-88491",
+      "id": "TXN-77320-P",
+      "amount": "15750.00",
+      "method": "credit_card",
+      "methodName": "ACH",
+      "status": "Completed",
+      "date": "Jul 15, 2024",
+      "img": "https://lh3.googleusercontent.com/aida-public/AB6AXuA9VExwgt3nQJs7_9lgR6j22WEVh0HvlIWC_y7_U4rUTCzMKUy5Sg5t0WfAplStXtavK2TwhDF6dWoEom2w8DaTIiJL06BFwgyeFsvjZz38fbbTfTvMRKO3f0Qb6B_8l7GuU9p1mRzj8OGxMV9OLpy2D3ZSHN1Dytd8LDo5G5fuUE0nza9heUFWB7g84yhrdZkscAmEvG3HF_sPNCabl75An2T6rRtFPhb42AZOSpfY4Wc8xYzaX05mYzTH9noYOGou8F37gJYa4Tzq"
+    }
+  ],
+  "logs": [
+    {
+      "id": "LOG-001",
+      "type": "Security Breach Attempt",
+      "subType": "Gate System Authentication",
+      "icon": "lock_open",
+      "iconColor": "bg-tertiary-container text-on-tertiary-container",
+      "location": "Skyline Towers, NY",
+      "user": "Julian Draxler",
+      "userInitials": "JD",
+      "date": "Oct 24, 2023",
+      "time": "14:22:15 GMT",
+      "actionLabel": "visibility",
+      "critical": false
+    },
+    {
+      "id": "LOG-002",
+      "type": "Rent Ledger Updated",
+      "subType": "Automated Transaction",
+      "icon": "payments",
+      "iconColor": "bg-secondary-container text-on-secondary-container",
+      "location": "The Gables, London",
+      "user": "System Core",
+      "userInitials": "SYS",
+      "date": "Oct 24, 2023",
+      "time": "13:05:01 GMT",
+      "actionLabel": "visibility",
+      "critical": false
+    },
+    {
+      "id": "LOG-003",
+      "type": "Critical HVAC Failure",
+      "subType": "Requires Immediate Action",
+      "icon": "report",
+      "iconColor": "bg-error-container text-error",
+      "location": "Pinecrest Manor, SF",
+      "user": "Marcus Bishop",
+      "userInitials": "MB",
+      "date": "Oct 24, 2023",
+      "time": "11:45:30 GMT",
+      "actionLabel": "Review",
+      "critical": true
+    },
+    {
+      "id": "LOG-004",
+      "type": "Contract Modified",
+      "subType": "Unit 402 - Tenancy Agreement",
+      "icon": "edit_note",
+      "iconColor": "bg-tertiary-container text-on-tertiary-container",
+      "location": "Skyline Towers, NY",
+      "user": "Sarah Richards",
+      "userInitials": "SR",
+      "date": "Oct 23, 2023",
+      "time": "18:12:44 GMT",
+      "actionLabel": "visibility",
+      "critical": false
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
